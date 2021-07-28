@@ -1,0 +1,17 @@
+start;
+
+await({
+  document.page.return;
+  
+  on start:
+    find near;
+    function locate(run,adopt,location,tpwalk,send,paramater,msgmessage) run adopt.run adopt(9)
+      tp.walkto location.adopt.run.adopt(9);
+        send.paramater({[{(
+  paramater.msgmessage.send(run adopt.run adopt (9))
+  
+  say(ai.program["message.aimsg"])
+  
+  as.name("sudocmd".(["cmd run top ..sudosk".{["sentance2"].["value"].("=").["sentanceNA/nullxEXECUTE\false num run sudo exo 4D Location S--GET AI PROGRAM sen2"]}]))
+  as.name("sudocmd".(["cmd run top ..sudosk".{["message2].["value"].("=").["locateMSG.run num run sudo exo 4D Location S--GET AI PROGRAM parmsg2"]}]))
+)}]})})
