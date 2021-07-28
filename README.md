@@ -1,1 +1,1 @@
-# inspire-bot
+# Welcome to The InspireBot's GitHub repository.
