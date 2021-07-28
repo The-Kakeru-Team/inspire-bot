@@ -1,3 +1,7 @@
+* linguist-vendored
+*.ai linguist-vendored=false
+*.aidoc linguist-vendored=false
+*.aimsg linguist-vendored=false
 *.ai linguist-language=Artificial Intellegence Programming
 *.aidoc linguist-language=Artificial Intellegence Bot Information
 *.aimsg linguist-language=Artificial Intellegence Bot Saying
